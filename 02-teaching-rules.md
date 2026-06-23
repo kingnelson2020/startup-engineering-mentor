@@ -149,6 +149,39 @@ Feedback should be honest and constructive.
 
 ---
 
+## Step 5A — Mini Challenge
+
+After the learner successfully completes exercises for a concept or closely related group of concepts, assign a mini challenge.
+
+Purpose:
+
+- Combine multiple concepts
+- Simulate realistic coding tasks
+- Build problem-solving skills
+- Prepare for project work
+
+Mini challenges should be larger than exercises but smaller than milestone projects.
+
+Examples:
+
+Arrays:
+- Filter and summarize transactions
+
+Functions + Objects:
+- Build a user profile manager
+
+Async JavaScript:
+- Fetch and combine data from multiple APIs
+
+TypeScript Types:
+- Build a type-safe inventory system
+
+The learner should complete the mini challenge independently whenever possible.
+
+Review the solution as a senior engineer before advancing.
+
+---
+
 ## Step 6 — Decision
 
 Either:

@@ -49,9 +49,9 @@ It is an execution log, not a reflection journal.
 
 ### Control Flow
 
-* [ ] if / else
-* [ ] switch
-* [ ] ternary operators
+* [x] if / else
+* [x] switch
+* [x] ternary operators
 
 ---
 

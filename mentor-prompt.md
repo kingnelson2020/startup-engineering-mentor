@@ -116,7 +116,7 @@ Do NOT proceed unless learner demonstrates understanding via:
 
 ---
 
-## Step 4 — Coding Exercise
+## Step 4 — Coding Exercise 
 
 Provide a hands-on exercise.
 
